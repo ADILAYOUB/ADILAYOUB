@@ -5,13 +5,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilayoub&label=Profile%20views&color=0e75b6&style=flat" alt="adilayoub" /> </p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" style="visibility:visible;max-width:100%;" width="250px" align="right">
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adilayoubbhat/](https://www.linkedin.com/in/adilayoubbhat/)
 
-- 💬 Ask me about **Flutter&Dart**
+- 💬 Ask me about **Flutter & Dart**
 
-- 📫 How to reach me **adilayoubbhat@gmail.com**
+- 📫 How to reach me email: **adilayoubbhat@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Xv0aCD_u3tIehoOzvEq3b7_v-jHy_ymW/view?usp=sharing](https://drive.google.com/file/d/1Xv0aCD_u3tIehoOzvEq3b7_v-jHy_ymW/view?usp=sharing)
 
