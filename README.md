@@ -13,7 +13,7 @@
 
 - 📫 How to reach me email: **adilayoubbhat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xv0aCD_u3tIehoOzvEq3b7_v-jHy_ymW/view?usp=sharing](https://drive.google.com/file/d/1Xv0aCD_u3tIehoOzvEq3b7_v-jHy_ymW/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
