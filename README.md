@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilayoub&label=Profile%20views&color=0e75b6&style=flat" alt="adilayoub" /> </p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" style="visibility:visible;max-width:100%;" width="250px" align="right">
 
-- 🌱 I’m currently learning **Flutter Development**
+- 🌱 I’m **Flutter Developer**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adilayoubbhat/](https://www.linkedin.com/in/adilayoubbhat/)
 
