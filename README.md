@@ -7,20 +7,24 @@
 
 - 🌱 I’m **Flutter Developer**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/adilayoubbhat/](https://www.linkedin.com/in/adilayoubbhat/)
-
 - 💬 Ask me about **Flutter & Dart**
+  
+- 🔭 I’m currently working on [Dev Chat](https://github.com/ADILAYOUB/100_flutter_challange)
 
-- 📫 How to reach me email: **adilayoubbhat@gmail.com**
+- 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link]
+- 📫 How to reach me **adilayobbhat@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link](https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link)
+
+<p align="left"> <a href="https://twitter.com/adilayoubbhat" target="blank"><img src="https://img.shields.io/twitter/follow/adilayoubbhat?logo=twitter&style=for-the-badge" alt="adilayoubbhat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adilayoubbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdilAyoub" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adilayoubbhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AdilAyoub" height="30" width="40" /></a>
 <a href="https://www.instagram.com/bhat_adil_ayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="AdilAyoub" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/adilayoubbhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AdilAyoub" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/adilayoubbhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AdilAyoub" height="30" width="40" /></a><a href="https://leetcode.com/adilayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/adilayoub/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
