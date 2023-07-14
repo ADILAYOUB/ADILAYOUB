@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter & Dart**
   
-- 🔭 I’m currently working on [Dev Chat](https://github.com/ADILAYOUB/100_flutter_challange)
+- 🔭 I’m currently working on [Movie App](https://github.com/ADILAYOUB/100_flutter_challange)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
 
