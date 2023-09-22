@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter & Dart**
   
-- 🔭 I’m currently working on [Teacher Courses](https://github.com/ADILAYOUB/MY-Teacher-Course/commits/main)
+- 🔭 I’m currently working on [Teacher Courses](https://github.com/ADILAYOUB/MY-Teacher-Course)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
 
