@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter & Dart**
   
-- 🔭 I’m currently working on [Re-Pay](private) || || [Rental Bike](private)
+- 🔭 I’m currently working on [School Management](private) || || [Rental Bike](private)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
 
