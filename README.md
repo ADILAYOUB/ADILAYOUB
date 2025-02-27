@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **adilayobbhat@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link](https://drive.google.com/file/d/1rZLHTvv4Xoe_D_JGc6ZO9nA9st-OnHEl/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1-ygF8cQ326VZNVFfkfrqqFv8L60FBrk8Qr0ozCt___8/edit?usp=sharing)
 
 <p align="left"> <a href="https://twitter.com/adilayoubbhat" target="blank"><img src="https://img.shields.io/twitter/follow/adilayoubbhat?logo=twitter&style=for-the-badge" alt="adilayoubbhat" /></a> </p>
 
