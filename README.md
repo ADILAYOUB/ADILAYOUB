@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adilayoub" alt="adilayoub" /></a> </p>
 
-- 🔭 I’m currently working on **InSha AI**
-
+- 🔭 I’m currently working on **InSha AI** **Naql**  **ThankIo Pay**
+ 
 - 🌱 I’m currently learning **C++, Swift, Devops**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/http://dev.to/adil_ayooub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="http://dev.to/adil_ayooub" height="30" width="40" /></a>
+<a href="https://dev.to/adil_ayooub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adil_ayooub" height="30" width="40" /></a>
 <a href="https://twitter.com/adilayoubbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilayoubbhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adilayoubbhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adilayoubbhat/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mintofree840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mintofree840" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adilayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adilayoub/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adilayoubbhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilayoubbhat/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mintofree840" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mintofree840" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/adilayoub/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adilayoub/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
