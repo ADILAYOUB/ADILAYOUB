@@ -5,11 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adilayoub&label=Profile%20views&color=0e75b6&style=flat" alt="adilayoub" /> </p>
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" style="visibility:visible;max-width:100%;" width="250px" align="right">
 
-- 🌱 I’m **Flutter Developer**
-
-- 💬 Ask me about **Flutter & Dart**
+- 🌱 I’m **Mobile Developer**
   
-- 🔭 I’m currently working on [School Management](private) || [Rental Bike](private)
+- 🔭 I’m currently working on [InSha AI](private) || [Naql](private) || [ThankIo Pay](private)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ADILAYOUB](https://github.com/ADILAYOUB)
 
